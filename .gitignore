@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDEs/editors
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Java/Kotlin outputs
+out/
+*.class
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Env/credentials (use Replit Secrets instead)
+.env
+.env.*
+*.keystore
+*.jks

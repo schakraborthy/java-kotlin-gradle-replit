@@ -1,0 +1,5 @@
+run = "./gradlew run"
+
+[nix]
+channel = "stable-25_05"
+packages = ["zulu", "gradle"]
